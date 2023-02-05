@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "J+DzVL7Cp2aEDe1wC9MrSfznybNvWVi515Mt9kEnDdwvAr6pJsfh5E3J0rOabVneLRU9hFKeBvaDWS+LibfDEw==",
+  "dgSpecHash": "6dMv8Q8dv/2ZBSZlIrkdILwHzS+UuzLeFpPNuZIQ1AoQ07KZgqCGczwpf2eahJjHELBuCLZ2FfHbJcdHKPdUkw==",
   "success": true,
   "projectFilePath": "/Users/ivansoria/Projects/BaseXamarinFormsProject/BaseXamarinFormsProject/BaseXamarinFormsProject.iOS/BaseXamarinFormsProject.iOS.csproj",
   "expectedPackageFiles": [
+    "/Users/ivansoria/.nuget/packages/flurl/3.0.7/flurl.3.0.7.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/flurl.http/3.2.4/flurl.http.3.2.4.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
     "/Users/ivansoria/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512",
     "/Users/ivansoria/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
     "/Users/ivansoria/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
