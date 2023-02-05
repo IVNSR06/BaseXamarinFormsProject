@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B12E8C63-1EB9-4B00-9DB6-C814DABF64A0}|Default">
+  <MonoDevelop.Ide.ItemProperties.BaseXamarinFormsProject.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BaseXamarinFormsProject/BaseXamarinFormsProject/MainPage.xaml">
+    <Files>
+      <File FileName="BaseXamarinFormsProject/BaseXamarinFormsProject/MainPage.xaml.cs" />
+      <File FileName="BaseXamarinFormsProject/BaseXamarinFormsProject/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BaseXamarinFormsProject" expanded="True">
+            <Node name="BaseXamarinFormsProject" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BaseXamarinFormsProject.Android PreferredExecutionTarget="Android.Pixel_3a_API_33_arm64-v8a" FirstBuild="True" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_33_arm64-v8a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BaseXamarinFormsProject FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

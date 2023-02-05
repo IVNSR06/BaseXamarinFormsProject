@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Zx7WqffUXbg8YnK7UbDt8DRjCn27ff3O+AvbHRhkpavsqEuh3h/+A3jZRShMMVnaIyTgtOCGWI/40QwO9ncoQ==",
+  "success": true,
+  "projectFilePath": "/Users/ivansoria/Projects/BaseXamarinFormsProject/BaseXamarinFormsProject/BaseXamarinFormsProject/BaseXamarinFormsProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivansoria/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/ivansoria/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
